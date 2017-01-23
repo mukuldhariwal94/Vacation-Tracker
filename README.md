@@ -1,4 +1,4 @@
-# P-NP
+# Open source vacation tracker application to track vacations in an organization ( data base needs to be setup this is only the front end code ) mock DB file can be found at 
 
 # Open Source Libraries used -- 
 
